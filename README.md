@@ -68,4 +68,4 @@ Source codes for our COLING 2020 paper: Knowledge Graph Embedding with Atrous Co
 ### Citation
 
 ### Acknowledgement
-Parts of codes come from [InteractE](https://github.com/malllabiisc/InteractE). Thanks for their contributions.
+Parts of our codes come from [InteractE](https://github.com/malllabiisc/InteractE). Thanks for their contributions.
