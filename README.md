@@ -1,5 +1,13 @@
-# AcrE
-Source codes for our COLING 2020 paper: Knowledge Graph Embedding with Atrous Convolution and Residual Learning.
+<h1 align="center">AcrE</h1>
+<h4 align="center">Source codes for our COLING 2020 paper: Knowledge Graph Embedding with Atrous Convolution and Residual Learning.
+</h4>
+<h2 align="center">
+  Overview of AcrE
+  <img align="center"  src="./overview.png" alt="...">
+</h2>
+We denote our model as AcrE (the abbreviation of Atrous Convolution and Residual Embedding). We design two structures to integrate the standard convolution and atrous convolutions together.
+One is a serial structure as shown in Figure 1 (a), and the other is a parallel structure as shown in Figure
+1 (b). Please refer to the paper for details.
 
 ### Requirements
 * Compatible with PyTorch 1.0 and Python 3.x.
